@@ -1,0 +1,7 @@
+C:\Users\david\source\repos\Stacks and Queues - Exercise\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.exe.config
+C:\Users\david\source\repos\Stacks and Queues - Exercise\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.exe
+C:\Users\david\source\repos\Stacks and Queues - Exercise\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.pdb
+C:\Users\david\source\repos\Stacks and Queues - Exercise\01. Reverse Numbers\obj\Debug\01. Reverse Numbers.csprojResolveAssemblyReference.cache
+C:\Users\david\source\repos\Stacks and Queues - Exercise\01. Reverse Numbers\obj\Debug\01. Reverse Numbers.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Stacks and Queues - Exercise\01. Reverse Numbers\obj\Debug\_01.Reverse_Numbers.exe
+C:\Users\david\source\repos\Stacks and Queues - Exercise\01. Reverse Numbers\obj\Debug\_01.Reverse_Numbers.pdb
